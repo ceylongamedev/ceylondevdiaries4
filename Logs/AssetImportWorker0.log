@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Unity Projects/Ceylon Dev Diaries/CDD 4 - Creator Kit Puzzle
+C:/Unity Projects/Ceylon Dev Diaries/CDD 4 - Creator Kit Puzzle/ceylondevdiaries4
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60981
-Successfully changed project path to: C:/Unity Projects/Ceylon Dev Diaries/CDD 4 - Creator Kit Puzzle
-C:/Unity Projects/Ceylon Dev Diaries/CDD 4 - Creator Kit Puzzle
+53999
+Successfully changed project path to: C:/Unity Projects/Ceylon Dev Diaries/CDD 4 - Creator Kit Puzzle/ceylondevdiaries4
+C:/Unity Projects/Ceylon Dev Diaries/CDD 4 - Creator Kit Puzzle/ceylondevdiaries4
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 285.90 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 142.18 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Unity Projects/Ceylon Dev Diaries/CDD 4 - Creator Kit Puzzle/Assets
+[Subsystems] Discovering subsystems at path C:/Unity Projects/Ceylon Dev Diaries/CDD 4 - Creator Kit Puzzle/ceylondevdiaries4/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -31,23 +31,487 @@ Direct3D:
     Vendor:   
     VRAM:     4056 MB
     Driver:   20.19.15.4642
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56180
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56280
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003902 seconds.
+Registered in 0.003693 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 119.75 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 112.47 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  7.313 seconds
+- Completed reload, in  5.632 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004157 seconds.
+Registered in 0.007285 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 161.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.997 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 1.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2935 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.7 MB.
+System memory in use after: 131.9 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 3372.
+Total: 6.610304 ms (FindLiveObjects: 0.696953 ms CreateObjectMapping: 0.300091 ms MarkObjects: 5.438289 ms  DeleteObjects: 0.172039 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Creator Kit - Puzzle
+  artifactKey: Guid(a3f31da82dee24c429bd8ade60f72636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle using Guid(a3f31da82dee24c429bd8ade60f72636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1389c61e6bac873838e3e9b5d4814a0') in 0.045373 seconds
+  Import took 0.057378 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008085 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.815 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.5 MB.
+System memory in use after: 124.7 MB.
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 3354.
+Total: 6.503757 ms (FindLiveObjects: 0.699397 ms CreateObjectMapping: 0.492657 ms MarkObjects: 5.182185 ms  DeleteObjects: 0.126585 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.421503 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a2c4dac9df7c17871e19a3b74f0e9f') in 0.032333 seconds
+  Import took 0.044001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.757725 seconds.
+  path: Assets/Test.unity
+  artifactKey: Guid(903851d1480bd8f478d73ec16798829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Test.unity using Guid(903851d1480bd8f478d73ec16798829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9ca2c165677edc3f83036ed08d3b46') in 0.046020 seconds
+  Import took 0.056885 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007401 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.818 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2834 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.2 MB.
+System memory in use after: 125.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3376.
+Total: 7.795516 ms (FindLiveObjects: 0.705262 ms CreateObjectMapping: 0.426676 ms MarkObjects: 6.603951 ms  DeleteObjects: 0.057183 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.464083 seconds.
+  path: Assets/CreatorKit_Puzzle_Third-PartyNotice.txt
+  artifactKey: Guid(a1efd84f3bd3f954293bf1befbb38211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreatorKit_Puzzle_Third-PartyNotice.txt using Guid(a1efd84f3bd3f954293bf1befbb38211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f3a45639809df0e27ffdfdc07af9623') in 0.129345 seconds
+  Import took 0.138430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.621426 seconds.
+  path: Assets/CreatorKit_Puzzle_Third-PartyNotice.txt
+  artifactKey: Guid(a1efd84f3bd3f954293bf1befbb38211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreatorKit_Puzzle_Third-PartyNotice.txt using Guid(a1efd84f3bd3f954293bf1befbb38211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f3a45639809df0e27ffdfdc07af9623') in 0.013270 seconds
+  Import took 0.028112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.530048 seconds.
+  path: Assets/Creator Kit - Puzzle/Scenes
+  artifactKey: Guid(22270a7f815cadb4b883ead2daabb8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scenes using Guid(22270a7f815cadb4b883ead2daabb8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f23f20082c5ad6d0d428b5f15a34556') in 0.041408 seconds
+  Import took 0.057031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.899348 seconds.
+  path: Assets/Creator Kit - Puzzle/Scenes/DefaultScenes
+  artifactKey: Guid(49ef60bbe8a423241b1c4ea39321fc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scenes/DefaultScenes using Guid(49ef60bbe8a423241b1c4ea39321fc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56270c6f5b2a39e9186d70eaebe05fd') in 0.020978 seconds
+  Import took 0.036652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.137138 seconds.
+  path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes
+  artifactKey: Guid(f74fd8730ec925b488f4cacddeea9ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scenes/ExampleScenes using Guid(f74fd8730ec925b488f4cacddeea9ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626db905fd766ab5fd920facbd273223') in 0.019718 seconds
+  Import took 0.035262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001429 seconds.
+  path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes
+  artifactKey: Guid(f74fd8730ec925b488f4cacddeea9ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scenes/ExampleScenes using Guid(f74fd8730ec925b488f4cacddeea9ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626db905fd766ab5fd920facbd273223') in 0.008548 seconds
+  Import took 0.019045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.286785 seconds.
+  path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level03.unity
+  artifactKey: Guid(8e80dae27616da241995f2290dca03b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level03.unity using Guid(8e80dae27616da241995f2290dca03b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '763a37a367526f5eaf81f509ab68f795') in 0.022128 seconds
+  Import took 0.034661 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.035962 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 5.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.709 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2834 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.3 MB.
+System memory in use after: 125.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3378.
+Total: 7.734423 ms (FindLiveObjects: 1.456466 ms CreateObjectMapping: 0.555217 ms MarkObjects: 5.644540 ms  DeleteObjects: 0.075267 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 400.572084 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Chrome.mat
+  artifactKey: Guid(6ed68dd6021a6624cb32224d8c4abaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Chrome.mat using Guid(6ed68dd6021a6624cb32224d8c4abaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1edba90b8698e19f9589f876ed0e0421') in 1.463918 seconds
+  Import took 1.480937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/ParticleSpheres.mat
+  artifactKey: Guid(e5953ca8bda3497419c9efd2213d42c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/ParticleSpheres.mat using Guid(e5953ca8bda3497419c9efd2213d42c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfb08330511d5b127b42872e2140e900') in 0.496635 seconds
+  Import took 0.508264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Test.mat
+  artifactKey: Guid(a9bba662834536c4eb07e13cc2638159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Test.mat using Guid(a9bba662834536c4eb07e13cc2638159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4360be5e6729a01edb61fa4a74a59fe7') in 1.426890 seconds
+  Import took 1.456604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Flags.mat
+  artifactKey: Guid(f5bc8e7451c8e114fbcb045631fc9b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Flags.mat using Guid(f5bc8e7451c8e114fbcb045631fc9b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d6877b5835d719dab3e7163abae70f8') in 0.224644 seconds
+  Import took 0.254783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/Righteous-Regular SDF.asset
+  artifactKey: Guid(794865dbd1c86964aae15ca7ca21784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/Righteous-Regular SDF.asset using Guid(794865dbd1c86964aae15ca7ca21784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92731dd0e8935bc79922ae29bd766b1b') in 0.478920 seconds
+  Import took 0.489308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Skybox_HDR.mat
+  artifactKey: Guid(5cb3d412579e6544b8718b834394cdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Skybox_HDR.mat using Guid(5cb3d412579e6544b8718b834394cdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356de58e7df90076b276ac242685f07a') in 0.217971 seconds
+  Import took 0.317295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Yellow.mat
+  artifactKey: Guid(561b69fe5ea0b1840ae11427929d7a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Yellow.mat using Guid(561b69fe5ea0b1840ae11427929d7a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b5f33721773da224a833f4290b1a1bb') in 0.377243 seconds
+  Import took 0.396080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Plant01.mat
+  artifactKey: Guid(7a40bee051193574fbc122b42e73e50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Plant01.mat using Guid(7a40bee051193574fbc122b42e73e50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952b1805f6d3cb4cda129ebaf83ee783') in 1.319307 seconds
+  Import took 1.338018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Plant02.mat
+  artifactKey: Guid(087d10d6c25bf144c9a80e020976ce53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Plant02.mat using Guid(087d10d6c25bf144c9a80e020976ce53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033594df9d0e29da7325d3f919c6fa0d') in 0.188875 seconds
+  Import took 0.208681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Plant03.mat
+  artifactKey: Guid(12926410b9bdc6e489694f20585a82f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Plant03.mat using Guid(12926410b9bdc6e489694f20585a82f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e89d84e01d5910d4a4dfe5038fb26cc') in 0.049433 seconds
+  Import took 0.060542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Leaves.mat
+  artifactKey: Guid(9fd48c1db3446d94d815c713183ce91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Leaves.mat using Guid(9fd48c1db3446d94d815c713183ce91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6803aa8b953296955597bb4beaf7388d') in 0.076359 seconds
+  Import took 0.094189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Models/Marble.fbx
+  artifactKey: Guid(96c09a5f8a34860468ae28b34caba1b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Models/Marble.fbx using Guid(96c09a5f8a34860468ae28b34caba1b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1317c25336d9ed353d2cce470f3f77cb') in 1.067883 seconds
+  Import took 1.078141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Pot.mat
+  artifactKey: Guid(cd51d3444c711af4192d6cbee2f1f6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Pot.mat using Guid(cd51d3444c711af4192d6cbee2f1f6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6782c811cfafca1ef1012adb4894faba') in 0.157277 seconds
+  Import took 0.168467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Models/SpoonColliderTest.fbx
+  artifactKey: Guid(e9324a29a1e842a4499226e1f6c9d53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Models/SpoonColliderTest.fbx using Guid(e9324a29a1e842a4499226e1f6c9d53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c6fd9370dd9ba340d2b57f3f183416') in 0.176722 seconds
+  Import took 0.196790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Models/TestFunnel.fbx
+  artifactKey: Guid(5134175d38036734a91fa3051a84eb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Models/TestFunnel.fbx using Guid(5134175d38036734a91fa3051a84eb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abff97b0d359ce7acc716c5df5eda098') in 0.201985 seconds
+  Import took 0.242706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Models/Pot.FBX
+  artifactKey: Guid(da999f46e0909b94c8f84780fb3126bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Models/Pot.FBX using Guid(da999f46e0909b94c8f84780fb3126bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f2071457288b3a2d4cc03a84c92784') in 0.094241 seconds
+  Import took 0.121729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011379 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Interactables.mat
+  artifactKey: Guid(bffce72fdc45f7e48a9154f6063b9331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Interactables.mat using Guid(bffce72fdc45f7e48a9154f6063b9331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e73299476c438b5ba886fede4e73ee37') in 0.145731 seconds
+  Import took 0.188257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001044 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/Righteous/Righteous-Regular.ttf
+  artifactKey: Guid(98424b7be437cc84d860ff0ace6335f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/Righteous/Righteous-Regular.ttf using Guid(98424b7be437cc84d860ff0ace6335f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a681e432a0eaceae6e0cbe9dbe6302b') in 0.228500 seconds
+  Import took 0.269878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/Ramps.mat
+  artifactKey: Guid(2ba59906a267f2a4c81070482c60533e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/Ramps.mat using Guid(2ba59906a267f2a4c81070482c60533e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af939514898e4d2c015aac8b2ab532c') in 0.068131 seconds
+  Import took 0.084820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000603 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/ConcreteFloor.mat
+  artifactKey: Guid(522d3e32418a8134b98d9fc62180bb90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/ConcreteFloor.mat using Guid(522d3e32418a8134b98d9fc62180bb90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '300e7fd3846510f66313635da0630597') in 0.263123 seconds
+  Import took 0.281516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Creator Kit - Puzzle/Art/Materials/ParticleStreaks.mat
+  artifactKey: Guid(70e21a36e899a72469ace60c96079dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Art/Materials/ParticleStreaks.mat using Guid(70e21a36e899a72469ace60c96079dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92ca715ffe554405a030c21c15e38985') in 0.110277 seconds
+  Import took 0.131926 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007014 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.413 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2877 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3471.
+Total: 9.886865 ms (FindLiveObjects: 1.020993 ms CreateObjectMapping: 0.759513 ms MarkObjects: 7.963156 ms  DeleteObjects: 0.139293 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 697.129879 seconds.
+  path: Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces
+  artifactKey: Guid(42f02f54f6ca56b4ab752ed308e288da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces using Guid(42f02f54f6ca56b4ab752ed308e288da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b48ab7f0a0033a1706d7087f35ce14') in 0.073472 seconds
+  Import took 0.085926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014606 seconds.
+  path: Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces
+  artifactKey: Guid(42f02f54f6ca56b4ab752ed308e288da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces using Guid(42f02f54f6ca56b4ab752ed308e288da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b48ab7f0a0033a1706d7087f35ce14') in 0.011880 seconds
+  Import took 0.023063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.839317 seconds.
+  path: Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces/SwingHammer.cs
+  artifactKey: Guid(0ac369d93cc2c5e42aa2c2c790a3dd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces/SwingHammer.cs using Guid(0ac369d93cc2c5e42aa2c2c790a3dd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18dc53ff0a8a0f09632987d911c73393') in 0.210168 seconds
+  Import took 0.223872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.419281 seconds.
+  path: Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces/Flipper.cs
+  artifactKey: Guid(eaa35f3555cfd3b438159492830d65b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces/Flipper.cs using Guid(eaa35f3555cfd3b438159492830d65b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caa53feb46930f2d6fda57b16105d2d2') in 0.056380 seconds
+  Import took 0.072548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022515 seconds.
+  path: Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces/Flipper.cs
+  artifactKey: Guid(eaa35f3555cfd3b438159492830d65b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces/Flipper.cs using Guid(eaa35f3555cfd3b438159492830d65b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caa53feb46930f2d6fda57b16105d2d2') in 0.012309 seconds
+  Import took 0.027988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.594414 seconds.
+  path: Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces/InteractivePuzzlePiece.cs
+  artifactKey: Guid(62cd3c31699c9204eb8f5a254ab9028c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces/InteractivePuzzlePiece.cs using Guid(62cd3c31699c9204eb8f5a254ab9028c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c83281c86439d62fe3765cf1378084f2') in 0.102693 seconds
+  Import took 0.130396 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.065681 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.774 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2877 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3473.
+Total: 8.752483 ms (FindLiveObjects: 0.990690 ms CreateObjectMapping: 0.515628 ms MarkObjects: 7.184582 ms  DeleteObjects: 0.058650 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011538 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.124 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2877 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3475.
+Total: 9.359995 ms (FindLiveObjects: 2.743337 ms CreateObjectMapping: 0.604091 ms MarkObjects: 5.906020 ms  DeleteObjects: 0.103126 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
